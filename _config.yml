@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Data Repo"
+title                    : "Andrew Data Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrew Nam"
-description              : "The blog is intended to archive my thoughts in the ever-evolving world of technology and automation. This blog is about things that interest me and might be interesting to others, primarily in the area of networking, wan optimization, sd-wan, linux, python, virtualization, dc automation. Disclaimer: Any views or opinions expressed here are strictly my own and personal. I can’t guarantee it anything written in here."
+description              : "The blog is intended to archive my thoughts in the ever-evolving world of technology and automation."
 url                      : "https://hotuna123.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Andrew Nam"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "The blog is intended to archive my thoughts in the ever-evolving world of technology and automation."
   location         : "Sydney, Australia"
   email            :
   links:
